@@ -1,0 +1,7 @@
+header{
+    background-color: rgba(0, 0, 0, 0.800);
+    box-sizing: border-box;
+    background-color: rgb(219, 219, 219);
+    flex-wrap: wrap;
+    flex-direction: column;
+}
